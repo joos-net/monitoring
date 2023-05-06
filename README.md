@@ -27,7 +27,7 @@
 Создайте виртуальную машину в Yandex Compute Cloud и с помощью Yandex Monitoring создайте дашборд, на котором будет видно загрузку процессора.
 
 
-![Monitor1]([ссылка на скриншот 1](https://github.com/joos-net/monitoring/blob/main/monitor1.png))`
+![Monitor1](https://github.com/joos-net/monitoring/blob/main/monitor1.png)
 
 
 ---
@@ -39,4 +39,4 @@
 
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
 
-![Monitor2]([ссылка на скриншот 1](https://github.com/joos-net/monitoring/blob/main/monitor2.png))`
+![Monitor2](https://github.com/joos-net/monitoring/blob/main/monitor2.png)
