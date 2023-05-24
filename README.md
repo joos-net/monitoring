@@ -26,6 +26,9 @@
 
 Создайте виртуальную машину в Yandex Compute Cloud и с помощью Yandex Monitoring создайте дашборд, на котором будет видно загрузку процессора.
 
+### Требования к результату
+
+- прикрепите в файл README.md скриншот вашего дашборда в Yandex Monitoring с мониторингом загрузки процессора виртуальной машины
 
 ![Monitor1](https://github.com/joos-net/monitoring/blob/main/monitor1.png)
 
@@ -38,6 +41,9 @@
 ### Задание 2
 
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
+
+### Требования к результату
+- прикрепите в файл README.md скриншот уведомления в Yandex Monitoring
 
 ![Monitor2](https://github.com/joos-net/monitoring/blob/main/monitor2.png)
 
